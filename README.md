@@ -55,9 +55,9 @@ accuracy — which is why **AUC** and **MCC** are reported alongside accuracy.
 
 ## c. GitHub Repository Link
 
-> **https://github.com/<your-username>/wine-quality-classifier**  *(replace with your repo URL)*
+> **https://github.com/2026ak05227-dev/wine-quality-classifier.git**  
 
-**Live Streamlit app:** `https://<your-app>.streamlit.app`  *(replace after deploy)*
+**Live Streamlit app:** `https://github.com/2026ak05227-dev/wine-quality-classifier.git`  
 
 Repository contents:
 
@@ -120,7 +120,7 @@ streamlit run app.py
 
 ## Streamlit app features
 
-- **CSV upload** — upload a test CSV (must contain the 12 features + `good_quality`).
+- **CSV upload** — upload a test CSV (must contain the 12 features + `good_quality`). Please upload test_data.csv from our repo.
 - **Model selection dropdown** — pick any one model, or **"Compare all"** for a side-by-side metrics table.
 - **Evaluation metrics** — Accuracy, AUC, Precision, Recall, F1, MCC shown per model.
 - **Confusion matrix + classification report** for the selected model.
