@@ -126,12 +126,3 @@ streamlit run app.py
 - **Confusion matrix + classification report** for the selected model.
 - Models are **loaded from disk and never retrained** on the uploaded data.
 
-## Deploying on Streamlit Community Cloud
-
-1. Push this repo to GitHub.
-2. Go to <https://streamlit.io/cloud> → sign in with GitHub → **New App**.
-3. Select the repo, `main` branch, main file `app.py`.
-4. Under **Advanced settings**, set the Python version to **3.13** (the pinned
-   `scikit-learn`/`pandas`/`numpy` versions match the ones used to train the
-   saved models — keeping them identical avoids pickle-compatibility warnings).
-5. **Deploy.**
