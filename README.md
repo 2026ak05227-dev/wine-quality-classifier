@@ -57,7 +57,7 @@ accuracy — which is why **AUC** and **MCC** are reported alongside accuracy.
 
 > **https://github.com/2026ak05227-dev/wine-quality-classifier.git**  
 
-**Live Streamlit app:** https://wine-quality-classifier-7rhjeufnghy89v988w2ksd.streamlit.app/
+**Live Streamlit app:** https://wine-quality-classifier-7rhjeufnghy89v988w2kse.streamlit.app/
 
 Repository contents:
 
